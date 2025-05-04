@@ -71,9 +71,5 @@ python main.py
 
 ---
 
-## 📚 Ataskaita
-
-Pridedamas `.docx` failas: **Greta_Garnytė_kursinis.docx**  
-Aprašo žaidimą, struktūrą, principus, testavimą ir išvadas.
 
 
