@@ -28,10 +28,8 @@ Tai objektinio programavimo kursinis darbas, kuriame sukurtas žaidimas su trimi
 ├── components.py        # Objektai: platformos, žvaigždės, portalai, kliūtys
 ├── player.py            # Žaidėjo logika
 ├── maze1.txt            # Labirinto planas
-├── test_*.py            # Vienetiniai testai
-├── player_image.png     # Žaidėjo paveikslėlis (nebūtinas)
-├── star_image.png       # Žvaigždės paveikslėlis (nebūtinas)
-├── Greta_Garnytė_kursinis.docx # Ataskaita
+├── player_image.png     # Žaidėjo paveikslėlis 
+├── star_image.png       # Žvaigždės paveikslėlis
 ```
 
 ---
@@ -43,8 +41,6 @@ Projektas testuotas su `unittest`:
 - `test_components.py` – testuoja komponentus
 - `test_levels.py` – tikrina `LevelFactory`
 - `main.py` nėra testuojamas, nes jame nėra loginės grąžinamos informacijos
-
-> Paleidimas: `python test_player.py` (arba kiti atskirai)
 
 ---
 
